@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Callum Hughes'
 description 'Radio for MumbleVOIP.'
-version 'Mumble 3.1.1'
+version 'PMA 3.1.1'
 
 
 client_scripts { 

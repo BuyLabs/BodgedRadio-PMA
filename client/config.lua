@@ -28,11 +28,11 @@ radio.info = {}
 
 radio.info.show = false
 
-radio.info.name = "SASRP Radio"
+radio.info.name = "Bodged Radio"
 radio.info.branch = "PMA Voice"
 radio.info.version = "3.01.1000"
 
-print("[ SASRP Radio ]" .. radio.info.name .. " - " .. radio.info.branch .. " - " .. radio.info.version .. " | LOADED.")
+print("[ Bodged Radio ]" .. radio.info.name .. " - " .. radio.info.branch .. " - " .. radio.info.version .. " | LOADED.")
 
 Citizen.CreateThread(function()
 

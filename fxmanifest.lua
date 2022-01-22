@@ -1,8 +1,9 @@
+lua54 'yes'
 fx_version 'cerulean'
 game 'gta5'
 
 author 'Callum Hughes'
-description 'Radio for MumbleVOIP.'
+description 'Radio for PMA Voice.'
 version 'PMA 3.1.1'
 
 
